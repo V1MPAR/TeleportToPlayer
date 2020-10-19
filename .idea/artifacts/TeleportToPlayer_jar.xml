@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TeleportToPlayer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TeleportToPlayer_jar</output-path>
+    <root id="archive" name="TeleportToPlayer.jar">
+      <element id="extracted-dir" path="$PROJECT_DIR$/../server/spigot-1.16.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

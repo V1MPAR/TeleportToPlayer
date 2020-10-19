@@ -5,8 +5,19 @@
       <artifact name="TeleportToPlayer:jar" />
     </artifacts-to-build>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dfe728e-05ac-454b-98d3-065edcf8d1ff" name="Default Changelist" comment="" />
+    <list default="true" id="7dfe728e-05ac-454b-98d3-065edcf8d1ff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +30,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1j3sYyaNszo3lHMMFElzwe7HMAG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,7 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../server/spigot-1.16.3.jar" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -40,6 +54,19 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,26 +76,39 @@
       <option name="presentableId" value="Default" />
       <updated>1603044163161</updated>
       <workItem from="1603044164189" duration="22901000" />
-      <workItem from="1603110742514" duration="622000" />
+      <workItem from="1603110742514" duration="1338000" />
+      <workItem from="1603112566959" duration="75000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="2688" y="228" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1603044239871">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2688" y="228" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1603044239871" />
-    <state x="2551" y="260" width="637" height="505" key="FileChooserDialogImpl" timestamp="1603044183002">
+    <state x="2551" y="260" width="637" height="505" key="FileChooserDialogImpl" timestamp="1603112632746">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2551" y="260" width="637" height="505" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1603044183002" />
-    <state x="2363" y="96" width="1024" height="839" key="SettingsEditor" timestamp="1603044199723">
+    <state x="2551" y="260" width="637" height="505" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1603112632746" />
+    <state x="2363" y="96" width="1024" height="839" key="SettingsEditor" timestamp="1603112641229">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2363" y="96" width="1024" height="839" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1603044199723" />
+    <state x="2363" y="96" width="1024" height="839" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1603112641229" />
     <state x="2296" y="142" width="1157" height="747" key="new project wizard" timestamp="1603063954059">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
